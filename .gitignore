@@ -1,6 +1,5 @@
 # User-specific stuff
-.idea/
-
+.idea/discord.xml
 *.iml
 *.ipr
 *.iws
