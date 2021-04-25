@@ -4,12 +4,12 @@
 
 Crafte Gummibärensaft aus Süßbeeren und einer Honigflashe
 
-Level 1: 1x Honig + 1x Süßbeeren
+Level 1: 1x Süßbeeren + 1x Honig
 
-Level 2: 2x Honig + 1x Süßbeeren
+Level 2: 2x Süßbeeren + 1x Honig
 
-Level 3: 3x Honig + 1x Süßbeeren
+Level 3: 3x Süßbeeren + 1x Honig
 
-Level 4: 4x Honig + 1x Süßbeeren
+Level 4: 4x Süßbeeren + 1x Honig
 
-Level 5: 5x Honig + 1x Süßbeeren
+Level 5: 5x Süßbeeren + 1x Honig
