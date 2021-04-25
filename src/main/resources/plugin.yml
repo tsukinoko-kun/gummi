@@ -1,0 +1,8 @@
+name: Gummi
+version: ${project.version}
+main: de.kuerbisskraft.gummi.Gummi
+api-version: 1.16
+prefix: gummu
+authors: [ FrankMayer ]
+description: Gimmibärensaft potion
+website: https://kuerbisskraft.de
